@@ -1,2 +1,4 @@
 flask==3.1.1
 gunicorn==23.0.0
+networkx==3.4.2
+psutil==6.1.1
